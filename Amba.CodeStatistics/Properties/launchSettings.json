@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Amba.CodeStatistics": {
+      "commandName": "Project",
+        "commandLineArgs": "\"C:\\horizon\\repos\\bnpl-order-consolidation\"",
+        "environmentVariables": {
+        
+      }
+    },
+      "Amba.CodeStatistics horizon": {
+          "commandName": "Project",
+          "commandLineArgs": "\"C:\\horizon\\repos\\afs-backend\"",
+          "environmentVariables": {
+
+          }
+      }
+
+      
+  }
+}
