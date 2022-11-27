@@ -1,2 +1,6 @@
-# code-statistics
-Code Statistics calculation command line utility
+# Code Statistics collector command line tool
+
+Collects size of files per extension.
+
+
+

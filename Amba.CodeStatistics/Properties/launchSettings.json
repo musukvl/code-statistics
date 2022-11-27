@@ -3,19 +3,16 @@
   "profiles": {
     "Amba.CodeStatistics": {
       "commandName": "Project",
-        "commandLineArgs": "\"C:\\horizon\\repos\\bnpl-order-consolidation\"",
+        "commandLineArgs": "\"d:\\dev\\test\"",
         "environmentVariables": {
         
       }
     },
       "Amba.CodeStatistics horizon": {
           "commandName": "Project",
-          "commandLineArgs": "\"C:\\horizon\\repos\\afs-backend\"",
-          "environmentVariables": {
-
+          "commandLineArgs": "\"d:\\dev\\test\"",
+          "environmentVariables": {          
           }
-      }
-
-      
+      }                                            
   }
 }
