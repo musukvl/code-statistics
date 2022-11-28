@@ -2,5 +2,8 @@
 
 Collects size of files per extension.
 
-
+Build project:
+```
+powershell -f build.ps1 
+```
 
